@@ -1,4 +1,4 @@
-# CSI4130_Project
+# Healthy Foods Classifier
 Code and Dataset for CSI 4130 Final Project
 
 # Steps for Running the Jupyter Notebook:
